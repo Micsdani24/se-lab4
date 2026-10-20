@@ -1,0 +1,15 @@
+GT4500,10,0,10,0
+torpedo,SINGLE
+torpedo,SINGLE
+torpedo,ALL
+torpedo,ALL
+torpedo,ALL
+torpedo,ALL
+torpedo,ALL
+torpedo,ALL
+torpedo,ALL
+torpedo,ALL
+torpedo,SINGLE
+torpedo,ALL
+torpedo,ALL
+TORPEDO,SINGLE  # should have fired from the primary store
